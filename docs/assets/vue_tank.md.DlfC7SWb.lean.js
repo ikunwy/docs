@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.qjqtGjhU.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/tank.md","filePath":"vue/tank.md"}'),n={name:"vue/tank.md"};function r(o,s,c,p,_,d){return t(),a("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};

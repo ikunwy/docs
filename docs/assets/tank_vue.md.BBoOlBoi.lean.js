@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,ah as l}from"./chunks/framework.qjqtGjhU.js";const p=JSON.parse('{"title":"Vue任务","description":"","frontmatter":{},"headers":[],"relativePath":"tank/vue.md","filePath":"tank/vue.md"}'),i={name:"tank/vue.md"};function n(o,e,s,_,c,d){return t(),r("div",null,[...e[0]||(e[0]=[l("",4)])])}const h=a(i,[["render",n]]);export{p as __pageData,h as default};
